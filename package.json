@@ -1,0 +1,15 @@
+{
+  "name": "js-tutorial-xando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Board.js",
+  "scripts": {
+    "start": "node Board.js"
+  },
+  "keywords": [
+    "javascript",
+    "tutorial"
+  ],
+  "author": "secchanu",
+  "license": "ISC"
+}
